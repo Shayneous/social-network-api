@@ -1,6 +1,6 @@
 const {User} = require('../models');
 
-const userController = {
+const usersController = {
     getAllUsers(req, res) {},
     getUserById({params}, res) {},
     createUser({body}, res) {},
@@ -11,4 +11,4 @@ const userController = {
 
 };
 
-module.exports = userController;
+module.exports = usersController;
