@@ -1,7 +1,7 @@
 # social-network-api
 
 ## Description
-This is the backend for a social network application where users can share their thoughts, react to friends' thoughts, and creat friend lists.
+This is the backend for a social network application where users can share their thoughts, react to friends' thoughts, and create friend lists.
 
 ## User Story
 
